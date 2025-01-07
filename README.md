@@ -1,6 +1,7 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" style="border: none;">
+
+<table style="border-collapse:collapse;width:100%;border:none;outline:none;">
+<tr style="border:none;vertical-align:top;outline:none;">
+<td width="50%" style="border:none;vertical-align:top;outline:none;">
 
 # 💫 About Me:
 
@@ -20,19 +21,21 @@
 
 📚 BS in Computer Science graduate
 
-🎮 Fun fact: Avid Tekken player
+🎮 Fun fact: A good Tekken player
 
 🤝 Open to collaborating on innovative projects
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%" style="border:none;vertical-align:top;outline:none;">
 
 ![programmer_building_spacex_project](https://github.com/user-attachments/assets/f99fafab-9051-4245-9bd2-d79e8b9fe032)
-
 
 </td>
 </tr>
 </table>
+
+![programmer_building_spacex_project](https://github.com/user-attachments/assets/f99fafab-9051-4245-9bd2-d79e8b9fe032)
+
 
 
 ## 🌐 Socials:
