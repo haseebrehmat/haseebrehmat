@@ -1,6 +1,5 @@
-
 <table style="border-collapse:collapse;width:100%;border:none;outline:none;">
-<tr style="border:none;vertical-align:top;outline:none;">
+<tr>
 <td width="50%" style="border:none;vertical-align:top;outline:none;">
 
 # 💫 About Me:
@@ -27,12 +26,12 @@
 
 </td>
 <td width="50%" style="border:none;vertical-align:top;outline:none;">
+![programmer_building_spacex_project](https://github.com/user-attachments/assets/2ae53053-9cd0-48ed-99ca-3735be13b5d8)
 
 </td>
 </tr>
 </table>
 
-![programmer_building_spacex_project](https://github.com/user-attachments/assets/f99fafab-9051-4245-9bd2-d79e8b9fe032)
 
 
 
