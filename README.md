@@ -1,5 +1,38 @@
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" style="border: none;">
+
 # 💫 About Me:
-I like experimenting with new technologies, building small projects and occasionally attending tech seminars Here's a list of things I'm currently keeping my self busy with;<br><br>🧑🏻‍💻 Working as Engineer at US Remote Firm using Python and Javascript<br><br>🔭 Currently working on ETL project for a Salons Acquiring company<br><br>👯 Looking to contribute to innovative projects<br><br>🛠️ Getting myself into Data Engineering / Science. Trying out of Apache Spark, Kafka, Flink, Beam, AWS EMR and Airflow<br><br>⚡ Fun fact, I love playing Tekken<br><br>👨🏻‍🎓 Hold a Bachlor's Degree in BS Computer Science
+
+👨‍💻 Software Engineer working remotely for a US-based firm, specializing in Python and JavaScript
+
+🚀 Currently leading ETL development for a Salon Acquisition company
+
+🔍 Passionate about experimenting with new technologies and building innovative projects
+
+🛠️ Diving deep into Data Engineering & Science:
+- Apache Spark
+- Kafka
+- Flink
+- Beam
+- AWS EMR
+- Airflow
+
+📚 BS in Computer Science graduate
+
+🎮 Fun fact: Avid Tekken player
+
+🤝 Open to collaborating on innovative projects
+
+</td>
+<td width="50%" style="border: none;">
+
+![programmer_building_spacex_project](https://github.com/user-attachments/assets/f99fafab-9051-4245-9bd2-d79e8b9fe032)
+
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
