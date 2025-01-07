@@ -28,8 +28,6 @@
 </td>
 <td width="50%" style="border:none;vertical-align:top;outline:none;">
 
-![programmer_building_spacex_project](https://github.com/user-attachments/assets/f99fafab-9051-4245-9bd2-d79e8b9fe032)
-
 </td>
 </tr>
 </table>
