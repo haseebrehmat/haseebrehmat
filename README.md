@@ -1,6 +1,4 @@
-<table style="border-collapse:collapse;width:100%;border:none;outline:none;">
-<tr>
-<td width="50%" style="border:none;vertical-align:top;outline:none;">
+![image](https://github.com/user-attachments/assets/8d0c8f79-f53a-462f-80e9-b171373a9cc8)
 
 # 💫 About Me:
 
@@ -23,14 +21,6 @@
 🎮 Fun fact: A good Tekken player
 
 🤝 Open to collaborating on innovative projects
-
-</td>
-<td width="50%" style="border:none;vertical-align:top;outline:none;">
-![programmer_building_spacex_project](https://github.com/user-attachments/assets/2ae53053-9cd0-48ed-99ca-3735be13b5d8)
-
-</td>
-</tr>
-</table>
 
 
 
