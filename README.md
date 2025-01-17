@@ -1,7 +1,7 @@
 ![git 2](https://github.com/user-attachments/assets/998cb064-2c3d-41f9-af60-fef9a5c00d15)
 # 💫 About Me:
 
-👨‍💻 Software Engineer working remotely for a US-based firm, specializing in Python and JavaScript
+👨‍💻 Data / Software Engineer working remotely for a US-based firm, specializing in Python and JavaScript
 
 🚀 Currently leading ETL development for a Salon Acquisition company
 
